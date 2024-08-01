@@ -5,6 +5,7 @@ I'm a Computer Science student at Universidade Anhembi Morumbi with a strong pas
 ## 🛠️ **Technical Skills:**
 - **Python**: Advanced
 - **HTML, CSS, JavaScript**: Intermediate
+- **React, React Native**: Intermediate
 - **Java**: Intermediate
 - **React/React Native**: Intermediate
 - **SQL**: Intermediate
@@ -17,7 +18,14 @@ I'm a Computer Science student at Universidade Anhembi Morumbi with a strong pas
 
 Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration. I'm always excited about working on innovative projects and contributing to the open-source community!
 
----
+
+## 📈  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleschopf&show_icons=true&theme=dark" height="180" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleschopf&layout=compact&theme=dark" height="180" alt="top langs" />
+</div><br/>
+
 
 **Connect with me:**
 - [LinkedIn] https://www.linkedin.com/in/aleschopf/
