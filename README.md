@@ -4,16 +4,20 @@ I'm a Computer Science student at Universidade Anhembi Morumbi with a strong pas
 
 ## 🛠️ **Technical Skills:**
 - **Python**: Advanced
+- 
 - **HTML, CSS, JavaScript**: Intermediate
 - **React, React Native**: Intermediate
+- **Node**: Intermediate
 - **Java**: Intermediate
-- **React/React Native**: Intermediate
-- **SQL**: Intermediate
-- **Docker**: Basic
+- **SQL**: Advanced
+- **Docker**: Advanced
+- **Rest API**: Advanced
+- **Microservices**: Basic
 - **Cybersecurity**: Knowledgeable, focused on building secure and reliable applications
 
 ## 📚 **Currently Learning:**
 - **Backend Java with Spring Boot**: In progress
+- **Microservices**: Basic
 - **Cybersecurity**: Continuously enhancing my knowledge and skills
 
 Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration. I'm always excited about working on innovative projects and contributing to the open-source community!
