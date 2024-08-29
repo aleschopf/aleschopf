@@ -4,7 +4,6 @@ I'm a Computer Science student at Universidade Anhembi Morumbi with a strong pas
 
 ## 🛠️ **Technical Skills:**
 - **Python**: Advanced
-- 
 - **HTML, CSS, JavaScript**: Intermediate
 - **React, React Native**: Intermediate
 - **Node**: Intermediate
