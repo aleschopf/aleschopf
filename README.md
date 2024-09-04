@@ -31,9 +31,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 </div><br/>
 
 
-**Connect with me:**
-- [LinkedIn] https://www.linkedin.com/in/aleschopf/
-- [Twitter] https://x.com/aleschopf/
+**Connect with me:** [My Link Tree](https://linktr.ee/aleschopf)
 
 ---
 
