@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleschopf/)](https://www.linkedin.com/in/aleschopf/) [![Gmail Badge](https://img.shields.io/badge/-alecsandroauer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alecsandroauer@gmail.com)](mailto:alecsandroauer@gmail.com) [![enter image description here](https://img.shields.io/badge/Linkt.ree-000000?style=for-the-badge&style=flat-square&logoColor=white)
 ](https://linktr.ee/aleschopf)
 ## About me
+
 <img src="https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" min-width="400px" max-width="400px" width="400px" height="600px" align="right" alt="Computador iuriCode">
 
 🛠️ &nbsp;DevOps <br>
