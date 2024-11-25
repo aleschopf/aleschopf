@@ -1,9 +1,10 @@
-# Alecsandro Schopf
+<a href="https://linktr.ee/aleschopf"><img src="https://raw.githubusercontent.com/aleschopf/aleschopf/main/images/Banner.png" width="100%" alt="Banner containing about me info"></a>
 
-<a href="https://linktr.ee/aleschopf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=049DE9&width=1000&lines=Hello%2C+my+name+is+Alecsandro+Schopf" alt="Typing SVG"/></a>
+## Contact info
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleschopf/)](https://www.linkedin.com/in/aleschopf/) [![Gmail Badge](https://img.shields.io/badge/-alecsandroauer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alecsandroauer@gmail.com)](mailto:alecsandroauer@gmail.com) [![enter image description here](https://img.shields.io/badge/Linkt.ree-000000?style=for-the-badge&style=flat-square&logoColor=white)
 ](https://linktr.ee/aleschopf)
+
 ## About me
 
 🛠️ &nbsp;DevOps <br>
