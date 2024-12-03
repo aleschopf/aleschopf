@@ -32,10 +32,11 @@
 ## Github statistics
 
 <div align="center" style="margin-bottom:100px">
-  <img height="270" width="43%" align="center" src="https://streak-stats.demolab.com/?user=aleschopf&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-  <img height="170" width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
+  <br>
+  <img width="50%" align="center" src="./images/streak.svg"/>
+  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
 </div> 
-
+<br>
 <div align="center" style="margin-bottom:100px">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aleschopf&theme=algolia&show_icons=true&card_width=200"/>
 </div>
