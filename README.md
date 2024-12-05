@@ -46,7 +46,7 @@
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/aleschopf/aleschopf/main/images/Computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 #### Studying:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
