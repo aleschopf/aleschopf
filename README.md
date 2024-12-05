@@ -7,13 +7,13 @@
 
 ## About me
 
-🛠️ &nbsp;DevOps <br>
-🌐 &nbsp;Fullstack Developer <br>
-🔐 &nbsp;Cybersec student <br>
-🔗 &nbsp;RESTful API Developer <br>
-🧠 &nbsp;LLM Explorer <br>
+💻 &nbsp;Fullstack Developer <br>
+🧠 &nbsp;Machine Learning Explorer <br>
 📚 &nbsp;Eager to Learn <br>
-🔍 &nbsp;Focus on understanding and optimizing processes <br>
+🔍 &nbsp;Focused on Understanding and Optimizing Processes <br>
+🔗 &nbsp;RESTful API Developer <br>
+🛠️ &nbsp;DevOps <br>
+🔐 &nbsp;Cybersec Entusiast <br>
 
 ### Goals
 
@@ -33,10 +33,9 @@
 
 <div align="center" style="margin-bottom:100px">
   <br>
-  <img width="50%" align="center" src="./images/streak.svg"/>
-  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
+  <img width="50%" height="170" align="center" src="./images/streak.svg"/>
+  <img width="40%" height="170" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
 </div> 
-<br>
 <div align="center" style="margin-bottom:100px">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aleschopf&theme=algolia&show_icons=true&card_width=200"/>
 </div>
@@ -85,4 +84,6 @@
 &nbsp;
 &nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a5f4&height=120&section=footer"/>
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
