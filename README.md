@@ -34,8 +34,9 @@
 <div align="center" style="margin-bottom:100px">
   <br>
   <img width="50%" height="170" align="center" src="./images/streak.svg"/>
-  <img width="40%" height="170" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
+  <img width="40%" height="165" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=aleschopf&show_icons=true&theme=algolia&layout=compact"/>
 </div> 
+<br>
 <div align="center" style="margin-bottom:100px">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aleschopf&theme=algolia&show_icons=true&card_width=200"/>
 </div>
