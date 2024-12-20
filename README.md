@@ -2,9 +2,9 @@
 
 ## Contact info <img src="https://visitcount.itsvg.in/api?id=aleschopf&label=Profile%20Views&color=12&icon=2&pretty=false" align="right"/>
 
-![Email](./images/badge-email.svg)&nbsp;
-![Link Tree](./images/badge-linktree.svg)&nbsp;
-![Linkedin](https://img.shields.io/badge/aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleschopf/)&nbsp;
+[![Email](./images/badge-email.svg)](mailto:aleschopf@lastbox.tech)&nbsp;
+[![Link Tree](./images/badge-linktree.svg)](https://linktr.ee/aleschopf)&nbsp;
+[![Linkedin](https://img.shields.io/badge/aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleschopf/)&nbsp;
 
 ## About me
 
