@@ -2,8 +2,9 @@
 
 ## Contact info <img src="https://visitcount.itsvg.in/api?id=aleschopf&label=Profile%20Views&color=12&icon=2&pretty=false" align="right"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleschopf/)](https://www.linkedin.com/in/aleschopf/) [![Gmail](https://img.shields.io/badge/-alecsandroauer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alecsandroauer@gmail.com)](mailto:alecsandroauer@gmail.com) [![Link Tree](https://img.shields.io/badge/Linkt.ree-48dc5c?style=for-the-badge&style=flat-square&text_color=000000)
-](https://linktr.ee/aleschopf)
+![Email](./images/badge-email.svg)&nbsp;
+![Link Tree](./images/badge-linktree.svg)&nbsp;
+![Linkedin](https://img.shields.io/badge/aleschopf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleschopf/)&nbsp;
 
 ## About me
 
