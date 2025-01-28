@@ -8,7 +8,7 @@
 
 ## About me
 
-💻 &nbsp;Fullstack Developer <br>
+💻 &nbsp;Senior Fullstack Developer <br>
 🧠 &nbsp;Machine Learning Explorer <br>
 📚 &nbsp;Eager to Learn <br>
 🔍 &nbsp;Focused on Understanding and Optimizing Processes <br>
@@ -18,7 +18,6 @@
 
 ### Goals
 
-- 💻 &nbsp;Seeking opportunities in Fullstack or Backend development.
 - 🚀 &nbsp;Passionate about building robust and scalable systems that enhance user experiences and drive technological advancements.
 - 💡 &nbsp;Driven to create projects that solve real problems.
 -  📈 &nbsp;Contribute to open-source projects and help make them better.
